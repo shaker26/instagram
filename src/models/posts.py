@@ -40,3 +40,33 @@ class Posts(db.Model):
         except exc.SQLAlchemyError as e:
             current_app.logger.error(str(e))
             raise e
+
+    @classmethod
+    def insert(cls, post_obj):
+        try:
+            # TODO: Fill this method
+            pass
+
+        except exc.SQLAlchemyError as e:
+            current_app.logger.error(str(e))
+            raise e
+
+    @classmethod
+    def update(cls, post_obj):
+        try:
+            # TODO: Fill this method
+            pass
+
+        except exc.SQLAlchemyError as e:
+            current_app.logger.error(str(e))
+            raise e
+
+    @classmethod
+    def delete(cls, post_id):
+        try:
+            # TODO: Fill this method
+            pass
+
+        except exc.SQLAlchemyError as e:
+            current_app.logger.error(str(e))
+            raise e

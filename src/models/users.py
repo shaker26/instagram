@@ -33,7 +33,39 @@ class User(db.Model):
     Class method works with the class since its parameter is always the class itself.
     """
     @classmethod
-    def get_user(cls, user_id):
+    def get(cls, user_id):
+        try:
+            #TODO: Fill this method
+            pass
+
+        except exc.SQLAlchemyError as e:
+            current_app.logger.error(str(e))
+            raise e
+
+    @classmethod
+    def insert(cls, user_obj):
+        try:
+            #TODO: Fill this method
+            pass
+
+        except exc.SQLAlchemyError as e:
+            current_app.logger.error(str(e))
+            raise e
+
+
+    @classmethod
+    def update(cls, user_obj):
+        try:
+            #TODO: Fill this method
+            pass
+
+        except exc.SQLAlchemyError as e:
+            current_app.logger.error(str(e))
+            raise e
+
+
+    @classmethod
+    def delete(cls, user_id):
         try:
             #TODO: Fill this method
             pass
