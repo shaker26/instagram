@@ -1,0 +1,711 @@
+2019-06-17 19:52:56,208 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:52:56,209 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 19:53:02,432 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:53:02,432 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 19:54:17,593 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:54:17,599 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 19:54:27,988 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:54:27,988 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 19:55:37,006 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:55:37,006 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 19:58:15,866 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:58:15,867 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 19:59:20,725 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:59:20,725 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 19:59:47,523 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 19:59:47,523 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 20:10:36,988 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 20:10:36,988 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 20:12:41,348 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 20:12:41,348 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 20:14:43,837 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 20:14:43,837 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 20:15:28,780 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 20:15:28,781 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 20:34:18,545 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 20:34:18,545 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-17 23:37:51,614 INFO: Insights-api starting up :) [in /Users/shaker/Desktop/insights-api/src/__init__.py:30]
+2019-06-17 23:37:51,614 INFO: Initialising API Routes [in /Users/shaker/Desktop/insights-api/src/__init__.py:59]
+2019-06-18 00:26:53,056 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 00:26:53,057 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 00:27:26,558 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 00:27:26,559 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 00:35:18,345 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 00:35:18,346 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 00:36:49,253 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 00:36:49,253 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 00:39:00,712 ERROR: URL: /insights/selection/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 00:39:00,713 ERROR: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 00:56:05,400 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 00:56:05,400 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 00:57:58,460 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 00:57:58,460 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 00:58:04,444 ERROR: (psycopg2.ProgrammingError) relation "selection_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM selection_events W...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM selection_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405) [in /Users/shaker/insights-api/src/models/user_selected_amenities.py:39]
+2019-06-18 00:58:04,444 ERROR: Locations Controller: Error on get_nearest_restaurants_within_range method [in /Users/shaker/insights-api/src/api/controller/insights.py:19]
+2019-06-18 00:58:04,446 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.ProgrammingError: relation "selection_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM selection_events W...
+                                                  ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/controller/insights.py", line 15, in get_top_k_selected_amenities
+    amenities = UserSelectedAmenities.get_top_k_selected_amenities_per_user(k=k, user_id=user_id)
+  File "/Users/shaker/insights-api/src/models/user_selected_amenities.py", line 40, in get_top_k_selected_amenities_per_user
+    raise e
+  File "/Users/shaker/insights-api/src/models/user_selected_amenities.py", line 31, in get_top_k_selected_amenities_per_user
+    rows = db.engine.execute(query)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2166, in execute
+    return connection.execute(statement, *multiparams, **params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 982, in execute
+    return self._execute_text(object_, multiparams, params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1155, in _execute_text
+    parameters,
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 383, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 128, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.ProgrammingError) relation "selection_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM selection_events W...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM selection_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405)
+ [in /Users/shaker/insights-api/src/api/controller/insights.py:20]
+2019-06-18 00:58:04,446 ERROR: URL: /insights/amenities, Method: GET, failed with exception (psycopg2.ProgrammingError) relation "selection_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM selection_events W...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM selection_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405) [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 00:58:04,447 ERROR: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.ProgrammingError: relation "selection_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM selection_events W...
+                                                  ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 26, in get
+    amenities = insightsControllerObject.get_top_k_selected_amenities(k=args['limit'], user_id=args['user_id'])
+  File "/Users/shaker/insights-api/src/api/controller/insights.py", line 21, in get_top_k_selected_amenities
+    raise e
+  File "/Users/shaker/insights-api/src/api/controller/insights.py", line 15, in get_top_k_selected_amenities
+    amenities = UserSelectedAmenities.get_top_k_selected_amenities_per_user(k=k, user_id=user_id)
+  File "/Users/shaker/insights-api/src/models/user_selected_amenities.py", line 40, in get_top_k_selected_amenities_per_user
+    raise e
+  File "/Users/shaker/insights-api/src/models/user_selected_amenities.py", line 31, in get_top_k_selected_amenities_per_user
+    rows = db.engine.execute(query)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2166, in execute
+    return connection.execute(statement, *multiparams, **params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 982, in execute
+    return self._execute_text(object_, multiparams, params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1155, in _execute_text
+    parameters,
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 383, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 128, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.ProgrammingError) relation "selection_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM selection_events W...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM selection_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405)
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 00:59:35,667 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 00:59:35,667 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 01:22:10,962 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 01:22:10,963 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 01:23:17,576 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 01:23:17,576 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 18:45:47,217 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 18:45:47,218 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 18:46:20,276 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 18:46:20,276 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 18:46:34,501 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 18:46:34,501 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 18:49:01,903 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-18 18:49:01,903 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:64]
+2019-06-18 18:56:52,892 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:21]
+2019-06-18 18:56:52,893 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:50]
+2019-06-18 18:59:25,747 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:53]
+2019-06-18 18:59:25,748 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 18:59:36,608 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:53]
+2019-06-18 18:59:36,608 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 19:00:29,009 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 19:00:29,009 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:27:02,735 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 19:27:02,736 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:29:07,922 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 19:29:07,922 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:29:47,054 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 19:29:47,054 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:32:03,675 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:30]
+2019-06-18 19:32:03,675 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:36:05,702 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:36:05,704 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 19:36:21,032 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:36:21,032 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 19:36:40,163 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:36:40,163 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 19:48:28,251 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 19:48:28,252 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 19:49:37,228 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 19:49:37,232 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:02:37,391 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:02:37,395 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:02:52,666 ERROR: (psycopg2.ProgrammingError) relation "amenity_preference_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM amenity_preference...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM amenity_preference_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405) [in /Users/shaker/insights-api/src/models/amenity_preference_events.py:39]
+2019-06-18 20:02:52,666 ERROR: Locations Controller: Error on get_nearest_restaurants_within_range method [in /Users/shaker/insights-api/src/api/controller/insights.py:19]
+2019-06-18 20:02:52,669 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.ProgrammingError: relation "amenity_preference_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM amenity_preference...
+                                                  ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/controller/insights.py", line 15, in get_top_k_selected_amenities
+    amenities = AmenityPreferenceEvents.get_top_k_selected_amenities_per_user(k=k, user_id=user_id)
+  File "/Users/shaker/insights-api/src/models/amenity_preference_events.py", line 40, in get_top_k_selected_amenities_per_user
+    raise e
+  File "/Users/shaker/insights-api/src/models/amenity_preference_events.py", line 31, in get_top_k_selected_amenities_per_user
+    rows = db.engine.execute(query)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2166, in execute
+    return connection.execute(statement, *multiparams, **params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 982, in execute
+    return self._execute_text(object_, multiparams, params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1155, in _execute_text
+    parameters,
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 383, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 128, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.ProgrammingError) relation "amenity_preference_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM amenity_preference...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM amenity_preference_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405)
+ [in /Users/shaker/insights-api/src/api/controller/insights.py:20]
+2019-06-18 20:02:52,670 ERROR: URL: /insights/amenities, Method: GET, failed with exception (psycopg2.ProgrammingError) relation "amenity_preference_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM amenity_preference...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM amenity_preference_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405) [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 20:02:52,670 ERROR: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.ProgrammingError: relation "amenity_preference_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM amenity_preference...
+                                                  ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 26, in get
+    amenities = insightsControllerObject.get_top_k_selected_amenities(k=args['limit'], user_id=args['user_id'])
+  File "/Users/shaker/insights-api/src/api/controller/insights.py", line 21, in get_top_k_selected_amenities
+    raise e
+  File "/Users/shaker/insights-api/src/api/controller/insights.py", line 15, in get_top_k_selected_amenities
+    amenities = AmenityPreferenceEvents.get_top_k_selected_amenities_per_user(k=k, user_id=user_id)
+  File "/Users/shaker/insights-api/src/models/amenity_preference_events.py", line 40, in get_top_k_selected_amenities_per_user
+    raise e
+  File "/Users/shaker/insights-api/src/models/amenity_preference_events.py", line 31, in get_top_k_selected_amenities_per_user
+    rows = db.engine.execute(query)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 2166, in execute
+    return connection.execute(statement, *multiparams, **params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 982, in execute
+    return self._execute_text(object_, multiparams, params)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1155, in _execute_text
+    parameters,
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1248, in _execute_context
+    e, statement, parameters, cursor, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1466, in _handle_dbapi_exception
+    util.raise_from_cause(sqlalchemy_exception, exc_info)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 383, in raise_from_cause
+    reraise(type(exception), exception, tb=exc_tb, cause=cause)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py", line 128, in reraise
+    raise value.with_traceback(tb)
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/base.py", line 1244, in _execute_context
+    cursor, statement, parameters, context
+  File "/Users/shaker/insights-api/venv/lib/python3.6/site-packages/sqlalchemy/engine/default.py", line 552, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.ProgrammingError: (psycopg2.ProgrammingError) relation "amenity_preference_events" does not exist
+LINE 1: SELECT amenity_id, count(*) AS count FROM amenity_preference...
+                                                  ^
+
+[SQL: SELECT amenity_id, count(*) AS count FROM amenity_preference_events WHERE user_id = '123747334752047865' GROUP BY amenity_id ORDER BY count DESC limit 10;]
+(Background on this error at: http://sqlalche.me/e/f405)
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 20:03:16,168 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:03:16,168 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:04:22,097 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:04:22,097 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:04:29,051 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:04:29,051 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:05:47,111 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:05:47,111 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:14:44,437 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:14:44,437 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:16:35,972 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:16:35,972 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:18:13,477 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:18:13,477 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:18:20,857 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:18:20,857 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:19:59,871 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:19:59,872 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:20:30,548 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:20:30,549 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:20:48,606 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:20:48,606 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:21:03,856 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:21:03,857 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:21:59,035 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:21:59,035 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:23:04,248 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:58]
+2019-06-18 20:23:04,249 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:24:11,189 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 20:24:11,190 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:26:09,917 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 20:26:09,917 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:39:38,128 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 20:39:38,129 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:43:33,351 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 20:43:33,351 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:58:47,479 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 20:58:47,479 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 20:59:17,228 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 20:59:17,228 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:00:15,481 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:00:15,481 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:01:24,798 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:01:24,799 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:02:15,543 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:02:15,543 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:04:02,530 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:04:02,530 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:05:56,224 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:05:56,225 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:07:55,136 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:07:55,136 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:10:44,353 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:10:44,353 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:10:44,448 ERROR: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:10:44,449 ERROR: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:12:53,915 ERROR: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:12:53,916 ERROR: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:13:11,726 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:13:11,726 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:13:11,823 ERROR: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:14:40,391 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:14:40,392 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:16:25,600 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:16:25,600 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:16:25,701 ERROR: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:17:16,540 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:17:16,540 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:17:16,625 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:17:39,234 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:17:39,234 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:17:39,318 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:18:00,360 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:18:00,360 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:18:00,440 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:20:13,608 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:20:13,608 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:20:35,505 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:20:35,505 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:21:24,692 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:21:24,692 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:21:39,716 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:21:39,716 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:22:01,732 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:22:01,732 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:22:02,628 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:22:02,628 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:22:12,765 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:22:12,765 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:22:13,641 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:22:13,641 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:23:02,725 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:23:02,725 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:23:03,699 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:23:03,699 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:23:03,791 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:23:03,791 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:25:09,798 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:25:09,798 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:25:10,768 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:25:10,768 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:25:10,859 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-18 21:25:10,860 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 59, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:72]
+2019-06-18 21:25:42,779 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:25:42,779 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:25:43,740 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:25:43,740 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:25:43,831 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:25:43,832 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:25:43,896 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-18 21:25:43,897 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 59, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:72]
+2019-06-18 21:29:19,577 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:29:19,577 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:29:20,576 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:29:20,576 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:29:20,667 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:29:20,667 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:29:20,734 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-18 21:29:20,735 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 59, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:72]
+2019-06-18 21:29:59,473 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:29:59,474 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:30:00,426 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:30:00,426 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:30:00,516 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:30:00,516 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:30:00,581 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-18 21:30:00,581 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 59, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:72]
+2019-06-18 21:33:12,563 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:33:12,564 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:33:13,564 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:33:13,564 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:33:13,654 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:33:13,654 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:33:13,717 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-18 21:33:13,718 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 59, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:72]
+2019-06-18 21:33:21,394 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 21:33:21,395 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-18 21:33:24,434 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:33:24,434 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 21:33:33,121 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-18 21:33:33,122 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 22, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:33]
+2019-06-18 22:16:29,978 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-18 22:16:29,979 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 00:51:54,521 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 00:51:54,522 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:39:06,406 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:39:06,406 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:39:07,136 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:39:07,136 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:39:58,233 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:39:58,233 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:39:58,932 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:39:58,933 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:40:34,587 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:40:34,587 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:40:35,285 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:40:35,285 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:42:15,984 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:42:15,984 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:42:51,303 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:42:51,303 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:44:58,573 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:44:58,573 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:44:59,264 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:44:59,264 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:48:07,458 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:48:07,458 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:48:08,154 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:48:08,154 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:48:52,307 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:48:52,307 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 01:48:53,254 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 01:48:53,254 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:06:32,516 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:06:32,521 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:08:01,546 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:08:01,546 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:21:00,307 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:21:00,307 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:34:14,437 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:34:14,437 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:43:03,252 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:43:03,252 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:47:48,048 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:47:48,048 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:56:57,639 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:56:57,639 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 02:58:21,302 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:59]
+2019-06-19 02:58:21,303 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:33]
+2019-06-19 05:30:30,817 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 05:30:30,818 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 05:38:49,439 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 05:38:49,439 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 05:45:14,254 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 05:45:14,254 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:37:08,047 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:37:08,048 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:37:13,747 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:37:13,747 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:37:14,996 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:37:14,996 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:37:15,094 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-06-19 06:37:15,095 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-19 06:37:15,183 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:68]
+2019-06-19 06:37:15,183 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-19 06:39:00,926 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:39:00,926 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:39:02,080 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:39:02,080 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:39:02,178 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-06-19 06:39:02,178 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-19 06:39:02,270 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:68]
+2019-06-19 06:39:02,270 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-19 06:39:56,183 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:39:56,184 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:39:57,245 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:39:57,245 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:39:57,338 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-06-19 06:39:57,338 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-19 06:39:57,424 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:68]
+2019-06-19 06:39:57,424 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-19 06:41:05,389 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:41:05,389 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:41:06,446 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:41:06,446 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:41:06,543 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-06-19 06:41:06,543 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-19 06:41:06,627 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:68]
+2019-06-19 06:41:06,627 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-19 06:41:10,226 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:41:10,232 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:41:11,309 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:41:11,309 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-06-19 06:41:11,408 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-06-19 06:41:11,408 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-06-19 06:41:11,481 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:68]
+2019-06-19 06:41:11,482 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-06-19 06:41:47,093 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-06-19 06:41:47,093 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 01:06:25,599 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 01:06:25,600 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 01:06:26,584 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 01:06:26,584 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 01:08:42,544 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 01:08:42,544 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 01:08:43,502 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 01:08:43,502 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 01:08:43,594 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-07-05 01:08:43,594 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-07-05 01:08:43,657 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:68]
+2019-07-05 01:08:43,658 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2019-07-05 01:13:56,047 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 01:13:56,047 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 01:20:10,686 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-07-05 01:20:10,687 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-07-05 05:34:03,433 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 05:34:03,433 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 05:34:11,530 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 05:34:11,530 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 05:34:12,541 INFO: Insights-api starting up :) [in /Users/shaker/insights-api/src/__init__.py:63]
+2019-07-05 05:34:12,541 INFO: Initialising API Routes [in /Users/shaker/insights-api/src/__init__.py:35]
+2019-07-05 05:34:12,633 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:29]
+2019-07-05 05:34:12,633 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:31]
+2019-07-05 05:34:12,699 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/shaker/insights-api/src/api/views/insights.py:68]
+2019-07-05 05:34:12,699 DEBUG: Traceback (most recent call last):
+  File "/Users/shaker/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/shaker/insights-api/src/api/views/insights.py:70]
+2020-09-22 18:30:08,662 INFO: Insights-api starting up :) [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:63]
+2020-09-22 18:30:08,663 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:35]
+2020-09-22 18:30:16,221 INFO: Insights-api starting up :) [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:63]
+2020-09-22 18:30:16,221 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:35]
+2020-09-22 18:30:28,394 INFO: Insights-api starting up :) [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:63]
+2020-09-22 18:30:28,394 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:35]
+2020-09-22 18:30:29,317 INFO: Insights-api starting up :) [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:63]
+2020-09-22 18:30:29,318 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:35]
+2020-09-22 18:30:29,418 DEBUG: URL: /insights/amenities, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/mshaker/Personal/Backup/insights-api/src/api/views/insights.py:28]
+2020-09-22 18:30:29,418 DEBUG: Traceback (most recent call last):
+  File "/Users/mshaker/Personal/Backup/insights-api/src/api/views/insights.py", line 20, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/mshaker/Personal/Backup/insights-api/src/api/views/insights.py:31]
+2020-09-22 18:30:29,516 DEBUG: URL: /insights/hotels, Method: GET, failed with exception {"name": "FormatValidationError", "message": "Request not formatted properly."} [in /Users/mshaker/Personal/Backup/insights-api/src/api/views/insights.py:66]
+2020-09-22 18:30:29,524 DEBUG: Traceback (most recent call last):
+  File "/Users/mshaker/Personal/Backup/insights-api/src/api/views/insights.py", line 57, in get
+    raise FormatValidationError
+src.exceptions.FormatValidationError: {"name": "FormatValidationError", "message": "Request not formatted properly."}
+ [in /Users/mshaker/Personal/Backup/insights-api/src/api/views/insights.py:70]
+2020-09-22 18:30:52,760 INFO: Insights-api starting up :) [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:63]
+2020-09-22 18:30:52,761 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/insights-api/src/__init__.py:35]
+2020-09-22 18:40:34,437 INFO: Instagram-api starting up :) [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:63]
+2020-09-22 18:40:34,437 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:35]
+2020-09-22 18:41:21,942 INFO: Instagram-api starting up :) [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:63]
+2020-09-22 18:41:21,942 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:35]
+2020-09-22 18:41:49,792 INFO: Instagram-api starting up :) [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:63]
+2020-09-22 18:41:49,792 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:35]
+2020-09-22 19:14:24,541 INFO: Instagram-api starting up :) [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:62]
+2020-09-22 19:14:24,541 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:35]
+2020-09-22 19:14:31,953 INFO: Instagram-api starting up :) [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:62]
+2020-09-22 19:14:31,954 INFO: Initialising API Routes [in /Users/mshaker/Personal/Backup/instagram/src/__init__.py:35]
