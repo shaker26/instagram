@@ -10,8 +10,8 @@ class UsersController:
 
     def get_user(self, user_id):
         try:
-            #TODO: Fill this method
-            pass
+            dbObject = User()
+            return dbObject.get(user_id)
 
         except Exception as e:
             current_app.logger.debug(traceback.format_exc())
